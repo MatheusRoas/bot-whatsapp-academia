@@ -31,3 +31,11 @@ Thumbs.db
 # Build artifacts
 dist/
 build/
+
+# 🔒 ADICIONE ESTAS LINHAS PARA PROTEGER DADOS DOS USUÁRIOS:
+# PDFs gerados com dados pessoais
+pdfs/
+*.pdf
+
+# Pasta de logs (se você tiver)
+logs/
